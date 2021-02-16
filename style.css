@@ -1,0 +1,43 @@
+h1, h2, h3, h4 {
+  font-family: 'Potta One', cursive;
+}
+
+p, a {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  background-color:#2a354f;
+}
+
+img {
+    border: 2px dashed black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+form {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.main {
+    padding: 120px 50px 80px 50px;
+    background-color: #b9bec9;
+}
+
+.footer {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: #3b4f7d;
+    color: white;
+}
+
+.about {
+    margin:0;
+    padding: 25px;
+    line-height: 1.5;
+}
